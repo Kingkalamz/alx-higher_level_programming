@@ -1,4 +1,8 @@
 #!/usr/bin/python3
-for letters in range(97, 123):
-    if letters != "q" or letters != "e":
-        print("{}" .format(chr(letters)), end="")
+
+""" prints the ASCII alphabet, in lowercase, not followed by a new line
+    Print all the letters except q and e """
+
+for letter in range(97, 123):
+    if chr(letter) != 'q' and chr(letter) != 'e':
+        print("{}".format(chr(letter)), end="")
