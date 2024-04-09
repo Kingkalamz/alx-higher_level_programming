@@ -1,7 +1,4 @@
 #!/usr/bin/python3
-# File: 4-print_square.py
-# Auth: Musa_kalamz A Ogunsolu
-
 """Defines a square-printing function."""
 
 

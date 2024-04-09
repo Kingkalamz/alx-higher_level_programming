@@ -1,7 +1,4 @@
 #!/usr/bin/python3
-# File: 0-add_integer.py
-# Auth: Musa_kalamz A Ogunsolu
-
 """Defines an integer addition function."""
 
 

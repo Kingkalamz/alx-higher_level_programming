@@ -1,7 +1,4 @@
 #!/usr/bin/python3
-# File: 3-say_my_name.py
-# Auth: Musa_kalamz A Ogunsolu
-
 """Defines a name-printing function."""
 
 

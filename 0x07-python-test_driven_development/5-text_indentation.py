@@ -1,7 +1,4 @@
 #!/usr/bin/python3
-# File: 5-text_indentation.py
-# Auth: Musa_kalamz A Ogunsolu
-
 """Defines a text-indentation function."""
 
 
