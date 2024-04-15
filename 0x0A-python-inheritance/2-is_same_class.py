@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+# File: 2-is_same_class.py
+# Auth: Musa_kalamz A Ogunsolu
+
 """Defines a class-checking function."""
 
 

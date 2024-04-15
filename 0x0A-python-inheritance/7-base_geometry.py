@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+# File: 7-base_geometry.py
+# Auth: Musa_kalamz A Ogunsolu
+
 """Defines a base geometry class BaseGeometry."""
 
 

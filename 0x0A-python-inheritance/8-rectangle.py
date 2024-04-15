@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+# File: 8-rectangle.py
+# Auth: Musa_kalamz A Ogunsolu
+
 """Defines a class Rectangle that inherits from BaseGeometry."""
 BaseGeometry = __import__('7-base_geometry').BaseGeometry
 

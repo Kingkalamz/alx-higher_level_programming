@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+# File: 4-inherits_from.py
+# Auth: Musa_kalamz A Ogunsolu
+
 """Defines an inherited class-checking function."""
 
 

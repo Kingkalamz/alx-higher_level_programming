@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+# Fole: 0-lookup.py
+# Auth: Musa_kalamz A Ogunsolu
+
 """Defines an object attribute lookup function."""
 
 

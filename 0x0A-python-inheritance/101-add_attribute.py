@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+# File: 101-add_attribute.py
+# Auth: Musa_kalamz A Ogunsolu
+
 """Defines a function that adds attributes to objects."""
 
 

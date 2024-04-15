@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+# File: 100-my_int.py
+# Auth: Musa_kalamz A Ogunsolu
+
 """Defines a class MyInt that inherits from int."""
 
 
