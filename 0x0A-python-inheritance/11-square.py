@@ -1,8 +1,4 @@
-#!/usr/bin/python3
-# File: 11-square.py
-# Auth: Musa_kalamz A Ogunsolu
-
-"""Defines a Rectangle subclass Square."""
+ a Rectangle subclass Square."""
 Rectangle = __import__('9-rectangle').Rectangle
 
 
