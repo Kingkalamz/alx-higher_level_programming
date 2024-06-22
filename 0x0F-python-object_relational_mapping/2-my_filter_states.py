@@ -11,7 +11,7 @@ if __name__ == __main__:
                          password=sys.argv[2], dbname=sys.argv[3], port=3306)
 
     cur = db.cursor()
-    cur.execute("SELECT * FROM STATES WHERE name 
+    cur.execute("SELECT * FROM STATES WHERE name
                 LIKE '{}'".fornat(sys.argv[4]))
 
     rows = cur.fetchall()
