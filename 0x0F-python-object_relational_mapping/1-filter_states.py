@@ -1,0 +1,21 @@
+#!/usr/bin/python3
+
+"""lists all states with a name starting with N (upper N) from the
+database hbtn_0e_0_usa"""
+
+import sys
+import MySQLdb
+
+if __name__ == __main__:
+    db = MySQLdb.connect(host="localhost", username=sys.argv[1],
+                         password=sys.argv[2], dbname=sys.argv[3], port=3306)
+
+    cur = db.cursor()
+    cur.execute("""SELECT * FROM states WHERE name
+                LIKE 'N%' ORDER BY states.id""")
+
+    rows = cur.fetchall()
+    for eachRow in rows:
+        print(eachRow)
+    cur.close()
+    db.close()
